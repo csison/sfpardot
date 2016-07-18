@@ -1,7 +1,7 @@
 #SFPARDOT
 #Summary:
 #Technologies used - Webdriver, Java, TestNG, Maven.
-#Page Object Patterns was followed. See Pages package.
+#Page object pattern was followed. See Pages package.
 #Helper methods were created under the Utilities package.
 #Development was done on IntelliJ IDEA 2016.2.
 #
