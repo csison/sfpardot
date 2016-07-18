@@ -8,6 +8,6 @@
 #Quick Start:
 #1. Repo can be clone from - git@github.com:csison/sfpardot.git
 #2. Build the project from pom.xml
-#3. Run the test case from - src\test\java\Tests\PardotTest.java
+#3. Run the test suite from - src\test\java\Tests\PardotTest.java
 
 
